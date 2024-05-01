@@ -1,0 +1,19 @@
+Sales Dashboard
+
+This Streamlit-powered Sales Dashboard prototype offers an interactive data visualization experience for analyzing sales data. Built using Streamlit, Plotly, and DuckDB, the dashboard allows users to explore key metrics, visualize trends, and gain insights from sales data.
+
+Features:
+
+    Data Preview: Users can upload their sales data file and preview it directly within the dashboard.
+    Metrics Visualization: Key financial metrics such as Accounts Receivable, Accounts Payable, Equity Ratio, and Debt Equity are displayed with customizable gauges and indicators.
+    Sales Analysis: The dashboard provides visualizations for analyzing sales data, including yearly sales per account and monthly sales vs. budget for different business units.
+    Interactive Charts: Plotly's interactive charts enable users to zoom, pan, and hover over data points for detailed insights.
+
+How to Use:
+
+    Install the required dependencies: Streamlit, Plotly, and DuckDB.
+    Run the dashboard with streamlit run streamlit_app.py.
+    Upload your sales data file through the configuration sidebar.
+    Explore the different visualizations and metrics available on the dashboard to gain insights into your sales performance.
+
+This Sales Dashboard prototype aims to streamline the analysis process and empower users with actionable insights to make informed business decisions based on their sales data.
